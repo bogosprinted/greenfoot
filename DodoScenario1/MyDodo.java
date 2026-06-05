@@ -2,7 +2,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
  *
- * @author Janna Willemsen!..
+ * @author Janna Willemsen
  * @version 3.0 -- 20-01-2017
  */
 public class MyDodo extends Dodo
